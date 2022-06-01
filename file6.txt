@@ -1,1 +1,0 @@
-This is my sixth file created in Git under GitHub main branch.
