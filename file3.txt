@@ -1,1 +1,0 @@
-This is the third file created in git under branch1 and will be pushed to GitHub.
