@@ -1,1 +1,3 @@
 This is first file created in github.
+This line is added in GitHub.
+Now I will try to pull this file to local repository using Git under a new branch name branch2.
