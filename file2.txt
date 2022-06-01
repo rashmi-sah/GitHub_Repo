@@ -1,0 +1,1 @@
+This is second file created in Git and will be pushed to GitHub.
